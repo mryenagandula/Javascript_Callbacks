@@ -1,4 +1,4 @@
-# Javascript Callbacks | Koseksi 
+# Javascript Callbacks | Mr Yenagandula
 
 ### Callbacks In Detail
 - Normally in javascript functions called as call back. 
